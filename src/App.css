@@ -1,9 +1,16 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1542145337-8a72ec27dd85?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=670&q=80);
+    background-size: cover;
+}
+
 .App {
     max-width: 600px;
     margin: 0 auto;
+    border: 5px;
 }
 
 .App footer {
-    font-size: 11px;
+    font-size: 13px;
     margin: 10px 0;
+    text-align: center;
 }
