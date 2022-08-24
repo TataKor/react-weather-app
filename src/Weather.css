@@ -1,21 +1,20 @@
 .Weather {
   margin-top: 40px;
-  font-family: arial, sans-serif;
-  border: 1px solid grey;
+  border: 3px solid grey;
   padding: 16px;
   border-radius: 13px;
   color: white;
 }
 
 .Weather h1 {
-  font-size: 24px;
+  font-size: 34px;
   font-weight: 100;
   margin: 20px 0 0 0;
   line-height: 29px;
 }
 
 .Weather ul {
-  margin: 0;
+  margin: 20px;
   padding: 0;
 }
 
@@ -34,7 +33,7 @@
   margin-left: 5px;
   font-weight: 400;
   margin-left: 10px;
-}
+  }
 
 .Weather canvas {
   margin: 10px auto;
